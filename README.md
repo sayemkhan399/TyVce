@@ -1,4 +1,4 @@
-# OmniVoice Chrome extension
+# TyVce Chrome extension
 
 OmniVoice listens in a Chrome side panel and inserts each finalized phrase into
 the focused text field or editable area on the active webpage. The side panel
